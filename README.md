@@ -9,8 +9,8 @@ Dell Optiplex 7060 的黑苹果引导
 
 Dell Optiplex 7060 
 
-- 系统版本: macOS 13.0 beta 6
-- Opencore 版本: 0.8.3
+- 系统版本: macOS 13.0 beta 8
+- Opencore 版本: 0.8.5
 - CPU: i7-8700
 - 主板: Dell OptiPlex Q370
 - 内存: 金士顿马甲条 4*16 ddr4 2666
